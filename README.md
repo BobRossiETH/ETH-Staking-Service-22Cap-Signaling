@@ -11,6 +11,7 @@ The following table lists staking services that have publicly committed to limit
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Network Penetration|	Link to Public Statement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---	|	---	|	---
 Stakewise | 0.59% | [Twitter - May 14th, 2022](https://twitter.com/stakewise_io/status/1525225299146944513)
+Rocketpool | 1.42% | [Twitter - May 14, 2022](https://twitter.com/langerstwit/status/1525343785219018752)
 
 # No Response
 The following table lists staking services that have not made an official statement either direction, ranked by network penetration according to www.rated.network
@@ -21,7 +22,6 @@ Coinbase | 14.92%
 Kraken | 8.86%
 Binance | 5.23%
 Bitcoin Suisse | 2.16%
-Rocketpool | 1.42%
 Staked.us | 1.40%
 f2pool.eth | 0.93%
 Bitfinex | 0.86%
