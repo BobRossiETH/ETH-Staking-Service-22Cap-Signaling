@@ -6,12 +6,16 @@ This page tracks staking entities who have committed to cap their scope of contr
 
 One threshold percentage had to be chosen to simplify this catalog's scope and prevent varied (and unfair) thresholds across staking entities. 22% is becoming a popular threshold in the community as it represents a middle ground between the entirely new set of dangers >33% control brings while still not going too low to discourage staking entity committment all together. 
 
+If any staking entity would like to add or update a position, please add an issue to the repo with:
+- Entity or Project Name
+- Link to pulbic source explicity claiming one of the following: Committment, Non Committment, TBD
+
 # Committed
 The following table lists staking services that have publicly committed to limiting their validator control to under 22% of the network, ranked by network penetration according to www.rated.network
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Network Penetration|	Link to Public Statement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---	|	---	|	---
 Stakewise | 0.59% | [Twitter - May 14th, 2022](https://twitter.com/stakewise_io/status/1525225299146944513)
-Rocketpool | 1.42% | [Twitter - May 14, 2022](https://twitter.com/langerstwit/status/1525343785219018752)
+Rocketpool | 1.42% | [Twitter - May 14th, 2022](https://twitter.com/langerstwit/status/1525343785219018752)
 
 # No Response
 The following table lists staking services that have not made an official statement either direction, ranked by network penetration according to www.rated.network
