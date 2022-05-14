@@ -4,8 +4,7 @@ This page tracks staking entities who have committed to cap their scope of contr
 # The network only needs 66% participation to finalize, why is 22% important?
 22% control is the threshold where 4 staking entities could collude to attack the Ethereum network. At the same time, 22% control is still viable as any one entity could go down without threatening finality of the chian. 
 
-Arguments can be made for other percentages, however a single threshold percentage had to be choosen as it simplifies the scope of this catalog and prevents the unfairness that varied thresholds across staking entities would bring. 22% is becoming a popular threshold in the community as it represents a middleground between the dangers of >33% control while still not going too low to discourage staking entity committment. 
-
+One threshold percentage had to be choosen to simplify this catalog's scope and prevent varied (and unfair) thresholds across staking entities. 22% is becoming a popular threshold in the community as it represents a middleground between the dangers of >33% control while still not going too low to discourage staking entity committment. 
 
 # Committed
 The following table lists staking services that have publically committed to limiting their validator control to under 22% of the network, ranked by Network Penetraton according to www.rated.network
