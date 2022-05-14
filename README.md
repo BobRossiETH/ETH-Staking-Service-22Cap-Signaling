@@ -12,6 +12,7 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Network P
 ---	|	---	|	---
 Rocketpool | 1.42% | [Twitter - May 14th, 2022](https://twitter.com/langerstwit/status/1525343785219018752)
 Stakewise | 0.59% | [Twitter - May 14th, 2022](https://twitter.com/stakewise_io/status/1525225299146944513)
+Swell Network | pre-launch | [Twitter - May 14, 2022](https://twitter.com/swellnetworkio/status/1525362128701784064)
 
 # No Response
 The following table lists staking services that have not made an official statement either direction, ranked by network penetration according to www.rated.network
