@@ -10,8 +10,8 @@ One threshold percentage had to be chosen to simplify this catalog's scope and p
 The following table lists staking services that have publicly committed to limiting their validator control to under 22% of the network, ranked by network penetration according to www.rated.network
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Network Penetration|	Link to Public Statement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---	|	---	|	---
-Stakewise | 0.59% | [Twitter - May 14th, 2022](https://twitter.com/stakewise_io/status/1525225299146944513)
 Rocketpool | 1.42% | [Twitter - May 14th, 2022](https://twitter.com/langerstwit/status/1525343785219018752)
+Stakewise | 0.59% | [Twitter - May 14th, 2022](https://twitter.com/stakewise_io/status/1525225299146944513)
 
 # No Response
 The following table lists staking services that have not made an official statement either direction, ranked by network penetration according to www.rated.network
