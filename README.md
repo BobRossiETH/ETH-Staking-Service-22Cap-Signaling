@@ -43,8 +43,10 @@ Poloniex | 0.11%
 The following table lists staking services that have publicly rejected commitment to limiting their validator control to under 22% of the network, ranked by network penetration according to www.rated.network
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Network Penetration|	Link to Public Statement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---	|	---	|	---
+---	|	---	|	---
 
 **Caveat**
+
 This is simply a project to catalog publicly provided statements and as such does not necessarily represent the collective perspective of each entity's organization and/or community. The entity list is likely incomplete - any entity that is not listed above should not be assumed to have indicated an opinion in either direction. 
 
 Data updated as of May 14th, 2022
