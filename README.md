@@ -44,4 +44,6 @@ The following table lists staking services that have publicly rejected commitmen
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Network Penetration|	Link to Public Statement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---	|	---	|	---
 
-Data updated as of May 14th, 2022
+
+
+###Data updated as of May 14th, 2022
