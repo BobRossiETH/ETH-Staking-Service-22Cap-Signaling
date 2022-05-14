@@ -47,6 +47,6 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Network P
 
 **Caveat**
 
-This is simply a project to catalog publicly provided statements and as such does not necessarily represent the collective perspective of each entity's organization and/or community. The entity list is likely incomplete - any entity that is not listed above should not be assumed to have indicated an opinion in either direction. 
+This is simply a project to catalog publicly provided statements and as such does not necessarily represent the collective perspective of each entity's organization and/or community. The entity list is likely incomplete - please do not assume a committment / non-committment for any entity that is not listed above.
 
 Data updated as of May 14th, 2022
