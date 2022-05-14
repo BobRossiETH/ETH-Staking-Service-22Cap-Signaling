@@ -6,10 +6,6 @@ This page tracks staking entities who have committed to cap their scope of contr
 
 One threshold percentage had to be chosen to simplify this catalog's scope and prevent varied (and unfair) thresholds across staking entities. 22% is becoming a popular threshold in the community as it represents a middle ground between the entirely new set of dangers >33% control brings while still not going too low to discourage staking entity committment all together. 
 
-If any staking entity would like to add or update a position, please add an issue to the repo with:
-- Entity or Project Name
-- Link to pulbic source explicity claiming one of the following: Committment, Non Committment, TBD
-
 # Committed
 The following table lists staking services that have publicly committed to limiting their validator control to under 22% of the network, ranked by network penetration according to www.rated.network
 Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Network Penetration|	Link to Public Statement&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,8 +45,14 @@ Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Network P
 ---	|	---	|	---
 ---	|	---	|	---
 
+**Pull Requests Welcome!**
+
+If any staking entity or community member would like to add or update a position, please add an issue to the repo with:
+- Entity or Project Name
+- Link to pulbic source explicity claiming one of the following: Committment, No Committment, TBD
+
 **Caveat**
 
 This is simply a project to catalog publicly provided statements and as such does not necessarily represent the collective perspective of each entity's organization and/or community. The entity list is likely incomplete - please do not assume a committment / non-committment for any entity that is not listed above.
 
-Data updated as of May 14th, 2022
+Data updated as of May 15th, 2022
