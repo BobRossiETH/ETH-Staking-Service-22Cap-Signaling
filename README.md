@@ -4,13 +4,15 @@ This page tracks staking entities who have committed to cap their scope of contr
 # The network only needs 66% participation to finalize, why is 22% important?
 22% control is the threshold where 4 staking entities could collude to attack the Ethereum network. At the same time, 22% control is still viable as any one entity could go down without threatening finality of the chian. 
 
-One threshold percentage had to be choosen to simplify this catalog's scope and prevent varied (and unfair) thresholds across staking entities. 22% is becoming a popular threshold in the community as it represents a middleground between the entirely new sset of dangers >33% control brings while still not going too low to discourage staking entity committment all together. 
+One threshold percentage had to be choosen to simplify this catalog's scope and prevent varied (and unfair) thresholds across staking entities. 22% is becoming a popular threshold in the community as it represents a middleground between the entirely new set of dangers >33% control brings while still not going too low to discourage staking entity committment all together. 
 
 # Committed
-The following table lists staking services that have publically committed to limiting their validator control to under 22% of the network, ranked by Network Penetraton according to www.rated.network
-Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Comments
----	|	---	|	---	|	---
+The following table lists staking services that have publicly committed to limiting their validator control to under 22% of the network, ranked by Network Penetraton according to www.rated.network
+Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Comments
+---	|	---	|	---
 
 
 # No Response
-The following table lists staking services that have not made an offical statement on the matter, ranked by Network Penetraton according to www.rated.network
+The following table lists staking services that have not made an offical statement either direction, ranked by Network Penetraton according to www.rated.network
+Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Category&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|	Position&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	|	Comments
+---	|	---	|	---	|	---
